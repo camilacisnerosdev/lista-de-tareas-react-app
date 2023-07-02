@@ -2,6 +2,7 @@
   "name": "aplicacion-react-tareas",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://camilacisnerosdev.github.io/lista-de-tareas-reac-app/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
