@@ -8,3 +8,6 @@ Su estructura inicial fue creada con el comando `npx create-react-app`.
 
 ## Instalar Módulos
 Ejecutar el comando `npm install` en el terminal.
+
+## Vista previa
+![Vista previa](vista%20previa.png)
